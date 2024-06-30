@@ -1,5 +1,5 @@
 # Привет, я Кристина!
-[![Header](https://github.com/KormichKristina/KormichKristina/blob/main/assets/ProgrammingGif.gif)]
+![Header](https://github.com/KormichKristina/KormichKristina/blob/main/assets/ProgrammingGif.gif)
 
 about me
 
