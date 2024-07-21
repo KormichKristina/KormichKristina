@@ -14,7 +14,7 @@
 ***
 
 ### Языки программирования и технологии✨
-<img src="https://img.shields.io/badge/CSHARP-001421?style=for-the-badge&logo=csharp&logoColor=aa00ff"/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/csharpicon.png" height=28px/>
 <img src="https://img.shields.io/badge/Git-001421?style=for-the-badge&logo=git&logoColor=ff005e"/>
 <img src="https://img.shields.io/badge/MySql-001421?style=for-the-badge&logo=mysql&logoColor=ffe600"/>
 <img src="https://img.shields.io/badge/Framework-001421?style=for-the-badge&logo=dotnet&logoColor=00ff48"/>
