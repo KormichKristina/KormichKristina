@@ -3,10 +3,9 @@
 
 Я начинающий с# программист💻, хочу развиваться в веб разработке. Мой первый язык программирования - c++, но позже я перешла на c#, поскольку c# показался мне более перспективным. Сейчас я учусь в ВКИ (Высшем колледже информатики)😁. Также я бы хотела делиться своими проектами и идеями с другими и может быть даже найти работу.⭐ В данный момент изучаю **Entity Framework Core**<br><br>
 💖 Хочу освоить новую профессию и найти работу<br>
-💖 Люблю эксперементировать<br>
+💖 Программирую уже 2 года<br>
 💖 Люблю учиться и осваивать новые технологии<br>
 ***
-
 
 Мой телеграмм: <br>
 <a href="https://t.me/KristyKor"><img src="https://pngicon.ru/file/uploads/telegram.png" width=30px/></a>
@@ -15,10 +14,10 @@
 
 ### Языки программирования и технологии✨
 
-<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-c-sharp-logo.svg"/>
-<img src="https://img.shields.io/badge/Git-001421?style=for-the-badge&logo=git&logoColor=ff005e"/>
-<img src="https://img.shields.io/badge/MySql-001421?style=for-the-badge&logo=mysql&logoColor=ffe600"/>
-<img src="https://img.shields.io/badge/Framework-001421?style=for-the-badge&logo=dotnet&logoColor=00ff48"/>
-<img src="https://img.shields.io/badge/Visual studio-001421?style=for-the-badge&logo=visualstudio&logoColor=5500ff"/>
-<img src="https://img.shields.io/badge/Visual studio code-001421?style=for-the-badge&logo=visualstudiocode&logoColor=00ffee"/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-c-sharp-logo.svg" height = 64px/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-git.svg"height = 64px/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/sql-file-format.png"height = 64px/>
+<img src="https://img.shields.io/badge/Entity Framework core-001421?style=for-the-badge"/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-visual-studio.svg"height = 64px/>
+<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-%D0%BA%D0%BE%D0%B4-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%B8-2019.svg"height = 64px/>
 
