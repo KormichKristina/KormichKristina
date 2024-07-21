@@ -14,10 +14,11 @@
 
 ### Языки программирования и технологии✨
 
-<img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-c-sharp-logo.svg" height = 64px/>
+<span><img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-c-sharp-logo.svg" height = 64px/>
 <img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-git.svg"height = 64px/>
 <img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/sql-file-format.png"height = 64px/>
 <img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/Bitmap_MEDIUM_Entity_Framework_Core_Logo_2colors_Square_Boxed_RGB_w_trans.png"height = 64px/>
 <img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-visual-studio.svg"height = 64px/>
 <img src="https://github.com/KormichKristina/KormichKristina/blob/main/assets/icons8-%D0%BA%D0%BE%D0%B4-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%B8-2019.svg"height = 64px/>
 
+</span>
